@@ -1,0 +1,9 @@
+langchain
+streamlit
+openai
+tabulate
+timm
+transformers
+python-dotenv
+torch
+Pillow
